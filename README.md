@@ -5,7 +5,7 @@ docker
 
 Docker 是一个开源的应用容器引擎，让开发者可以打包他们的应用以及依赖包到一个可移植的容器中，然后发布到任何流行的Linux 机器上，也可以实现虚拟化。容器是完全使用沙箱机制，相互之间不会有任何接口。几乎没有性能开销,可以很容易地在机器和数据中心中运行。最重要的是,他们不依赖于任何语言、框架或包装系统。
 
-docker的官网：http://www.docker.io，git地址：https://github.com/dotcloud/docker。具体信息可以参见官网相关信息，我这里主要记录一些个人感受，仅供后来者参考。
+docker的官网：http://www.docker.io， git地址：https://github.com/dotcloud/docker 。具体信息可以参见官网相关信息，我这里主要记录一些个人感受，仅供后来者参考。
 
 docker的安装很简单。这里以ubuntu上面的安装为例。
     
